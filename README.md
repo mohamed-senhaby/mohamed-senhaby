@@ -18,16 +18,16 @@ Hello! I'm Mohamed Senhaby, a passionate software developer and civil engineer b
 
 ### Web Development
 
-- [ToDo-Lists Web Application](link-to-repo) - JavaScript, Node.js, Mongoose, EJS, CSS
-- [Weather App](link-to-repo) - JavaScript, Node.js, RestAPI, EJS, CSS
-- [REST API Web App](link-to-repo) - JavaScript, Node.js, RestAPI, EJS, CSS
-- [Blog Site](link-to-repo) - Python, Flask
-- [Music Time Machine](link-to-repo) - Python
-- [Accommodation Software](link-to-repo) - C++, OOP
+- [ToDo-Lists Web Application](https://github.com/mohamed-senhaby/ToDo-List-Web-Application) - JavaScript, Node.js, Mongoose, EJS, CSS
+- [Weather App](https://github.com/mohamed-senhaby/Weather_app) - JavaScript, Node.js, RestAPI, EJS, CSS
+- [REST API Web App](https://github.com/mohamed-senhaby/REST-API) - JavaScript, Node.js, RestAPI, EJS, CSS
+- [Blog Site](https://github.com/mohamed-senhaby/Blog-Website) - Python, Flask
+- [Music Time Machine](https://github.com/mohamed-senhaby/Music-Time-Machine) - Python
+- [Accommodation Software](https://github.com/mohamed-senhaby/ACCOMMODATION-SOFTWARE) - C++, OOP
 
 ### Software Engineering
 
-- [Simulation of Subway Lines](link-to-repo) - C++, OOP
+- [Simulation of Subway Lines](https://github.com/mohamed-senhaby/Metro-simulation-program) - C++, OOP
 
 
 ## Skills
